@@ -1,16 +1,15 @@
-## Hi there 👋
+Over the last 10 years I’ve worked on building AI-based solutions for [chemical synthesis](https://github.com/MolecularAI/aizynthfinder), [automatic activity recognition](https://research.ibm.com/projects/lab-that-learns), and [text2sql](https://research.ibm.com/projects/flowpilot).
 
-<!--
-**A-Thakkar/A-Thakkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This has changed how [medicines](https://pubs.rsc.org/en/content/articlelanding/2024/md/d3md00651d) and [agrochemicals](https://shootsbysyngenta.com/success-story-ibm-and-syngenta) are made across large organisations.
 
-Here are some ideas to get you started:
+#### Now, I'm looking for a new adventure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you’re in the early stages of working on a problem, and need a proactive partner willing to take on challenges across building, management, and working with clients, [i'd love to chat](https://calendar.notion.so/meet/amolthakkar/tmnme4l0c).
+
+
+#### Currently
+Hitting reset, embracing my curiosity, and reinvigorating my inner child.
+
+- Cycled from Zurich to Istanbul
+- Learning Norwegian -- Exploring new ways to learn, teach, and build with AI
+- Advising a small business on digital strategy
