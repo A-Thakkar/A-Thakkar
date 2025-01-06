@@ -1,4 +1,4 @@
-# Hi :waving_hand:
+# Hi 👋
 Over the last 10 years I’ve worked on building AI-based solutions for [chemical synthesis](https://github.com/MolecularAI/aizynthfinder), [automatic activity recognition](https://research.ibm.com/projects/lab-that-learns), and [text2sql](https://research.ibm.com/projects/flowpilot).
 
 This has changed how [medicines](https://pubs.rsc.org/en/content/articlelanding/2024/md/d3md00651d) and [agrochemicals](https://shootsbysyngenta.com/success-story-ibm-and-syngenta) are made across large organisations.
