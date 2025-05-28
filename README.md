@@ -12,7 +12,11 @@ This has influenced how [medicines](https://pubs.rsc.org/en/content/articlelandi
 My experience spans the full development lifecycle - from lab-based research to the design, deployment, and productionisation of AI tools for both early-stage discovery and scale-up. I'm particularly interested in translating research into the real world, especially via commercial entities, whether industry or start-ups. I plan on writing some thoughts on the matter so check back for a link later.
 
 ## Experience
-- Research Staff Member - IBM Research Zurich (2022-2024)
-- PhD Researcher - AstraZeneca (2019-2021)
-- Industrial Placement - Pfizer (2015-2016)
+- Research Staff Member - AI for Scientific Discovery, IBM Research Zurich (2022-2024)
+- PhD Researcher - Molecular AI, AstraZeneca (2019-2021)
+
+Switched to ML ⬆️
+
+Chemistry ⬇️
+- Industrial Placement - Chemical Research and Development, Pfizer (2015-2016)
 - Research Intern - University of St Andrews (2013-2015)
